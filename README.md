@@ -13,3 +13,5 @@ Watch tutorial on Youtube
 hello
 
 2. Create a css file
+
+3. Create a js file
