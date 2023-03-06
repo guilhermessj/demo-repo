@@ -11,3 +11,5 @@ Watch tutorial on Youtube
 
 1. open index.html in your browser.
 hello
+
+2. Create a css file
