@@ -16,4 +16,10 @@ hello
 
 3. Create a js file
 
+<<<<<<< HEAD
 4. Create a py file
+=======
+4. Create a Java file
+
+5. Create anything
+>>>>>>> feature
